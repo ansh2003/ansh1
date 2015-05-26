@@ -1,11 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="controls_whileUntil" id="7" inline="false" x="160" y="85">
-    <field name="MODE">UNTIL</field>
-    <value name="NUMBER">
-      <block type="math_random" id="23"></block>
-    </value>
-    <statement name="DO">
-      <block type="movement_forward" id="50"></block>
-    </statement>
-  </block>
-</xml>
+<xml xmlns="http://www.w3.org/1999/xhtml"></xml>
